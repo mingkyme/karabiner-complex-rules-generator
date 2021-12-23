@@ -397,6 +397,46 @@ export const KEY_CODES = [
     label: 'Volume Up',
     value: 'volume_increment',
   },
+  {
+    label: 'Keypad 0',
+    value: 'keypad_0',
+  },
+  {
+    label: 'Keypad 1',
+    value: 'keypad_1',
+  },
+  {
+    label: 'Keypad 2',
+    value: 'keypad_2',
+  },
+  {
+    label: 'Keypad 3',
+    value: 'keypad_3',
+  },
+  {
+    label: 'Keypad 4',
+    value: 'keypad_4',
+  },
+  {
+    label: 'Keypad 5',
+    value: 'keypad_5',
+  },
+  {
+    label: 'Keypad 6',
+    value: 'keypad_6',
+  },
+  {
+    label: 'Keypad 7',
+    value: 'keypad_7',
+  },
+  {
+    label: 'Keypad 8',
+    value: 'keypad_8',
+  },
+  {
+    label: 'Keypad 9',
+    value: 'keypad_9',
+  },
 ];
 
 export const ALL_KEYS = [...MODIFIERS, ...KEY_CODES];
