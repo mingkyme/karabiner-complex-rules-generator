@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2dc8f3957999256f1ec279d42fd5b30",
+    "revision": "01d36e7807e35fa9c745bc54abfb4982",
     "url": "/karabiner-complex-rules-generator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karabiner-complex-rules-generator/static/css/2.3c7f2c3d.chunk.css"
   },
   {
-    "revision": "f8c407d4a46448c65f84",
+    "revision": "cb2f921b799d721d6df3",
     "url": "/karabiner-complex-rules-generator/static/css/main.9c1c1d8d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karabiner-complex-rules-generator/static/js/2.73a4f73e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8c407d4a46448c65f84",
-    "url": "/karabiner-complex-rules-generator/static/js/main.cbef322b.chunk.js"
+    "revision": "cb2f921b799d721d6df3",
+    "url": "/karabiner-complex-rules-generator/static/js/main.b333ebc1.chunk.js"
   },
   {
     "revision": "b30e42a2b07e0af2d945",
