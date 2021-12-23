@@ -31,12 +31,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://genesy.github.io/karabiner-complex-rules-generator",
+  "homepage": "https://mingkyme.github.io/karabiner-complex-rules-generator",
   "browserslist": {
     "production": [
       ">0.2%",
